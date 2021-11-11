@@ -39,9 +39,9 @@ CREATE TABLE `tbl_admin` (
 --
 
 INSERT INTO `tbl_admin` (`id`, `full_name`, `username`, `password`) VALUES
-(1, 'Arsenio Leach', 'toduwaxobi', 'f3ed11bbdb94fd9ebdefbaf646ab94d3'),
-(9, 'Sasha Mendez', 'goxemyde', 'f3ed11bbdb94fd9ebdefbaf646ab94d3'),
-(10, 'Vijay Thapa', 'vijaythapa', 'f3ed11bbdb94fd9ebdefbaf646ab94d3'),
+(1, 'camila cabillo', 'camila', 'f3ed11bbdb94fd9ebdefbaf646ab94d3'),
+(9, 'Shawn Mendes', 'shwane', 'f3ed11bbdb94fd9ebdefbaf646ab94d3'),
+(10, 'Ananya Trivedi', 'anayaa', 'f3ed11bbdb94fd9ebdefbaf646ab94d3'),
 (12, 'Administrator', 'admin', '21232f297a57a5a743894a0e4a801fc3');
 
 -- --------------------------------------------------------
